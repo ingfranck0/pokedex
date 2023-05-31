@@ -1,0 +1,1 @@
+ lo que hice en mi proyecto fue usar la api  llamada pokeapi que lo que hace es obtener informacion de el pokemon solicitado que va desde el pokemon 1 hasta el pokemon 898 y lo que aprendi en este modulo fue a usar y consumir apis atraves de python
